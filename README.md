@@ -13,5 +13,5 @@ A collaborative project to create a functional and visually appealing To-Do List
 
 ## How to Run
 1. Clone the repository.
-2. Open `index.html` in a browser.
+2. Open `index-1.html` in a browser.
 
